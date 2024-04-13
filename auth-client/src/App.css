@@ -1,0 +1,14 @@
+body{
+  font-family: 'Sofia Sans', sans-serif;
+  background: linear-gradient(180deg, rgba(186, 209, 216, 0.153) 0%, rgba(186, 209, 216, 0.345) 100%);
+  background-size: cover;
+  /* background-color: #cce01a;*/
+}
+
+.reviews{
+  font-family: 'Kurale';
+}
+
+.footer{
+  background: linear-gradient(180deg, rgba(186, 209, 216, 0.345) 0%, rgba(186, 209, 216, 0.153) 100%);
+}
